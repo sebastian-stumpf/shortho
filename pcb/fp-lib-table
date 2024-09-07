@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/footprints/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "shortho")(type "KiCad")(uri "${KIPRJMOD}/shortho.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-choc.kicad_sym")(options "")(descr ""))
+)
